@@ -19,3 +19,11 @@ A simple web-based Blood Donation Management System built using **PHP**, **MySQL
 - **Backend**: PHP (WAMP Server)  
 - **Database**: MySQL
 
+## 🚀 How to Run Locally
+
+1. Install **WAMP** server.
+2. Place the project folder inside the `www` directory.
+3. Open **phpMyAdmin** and import the database (if provided).
+4. Run the project via:  
+   `http://localhost/your-folder-name/`
+
