@@ -34,7 +34,7 @@ A simple web-based Blood Donation Management System built using **PHP**, **MySQL
 |-------------|------------|---------------------|
 | id          | INT (PK)   | Auto-incremented ID |
 | username    | VARCHAR    | Admin login username |
-| password    | VARCHAR    | Admin password (hashed recommended) |
+| password    | VARCHAR    | Admin password |
 | name        | VARCHAR    | Admin full name     |
 | email       | VARCHAR    | Admin email         |
 
